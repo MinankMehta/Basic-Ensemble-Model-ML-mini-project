@@ -28,4 +28,4 @@ Follow these steps to run the ensemble model on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/breast-cancer-ensemble.git
+   git clone https://github.com/MinankMehta/Basic-Ensemble-Model-ML-mini-project.git
